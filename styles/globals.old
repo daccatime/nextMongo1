@@ -1,0 +1,49 @@
+
+
+.form-container{
+  width: 400px;
+  margin: 20px auto;
+  color: chartreuse;
+
+}
+
+
+.navbar .create{
+  color: rgb(3, 32, 32);
+  font-size: 20.5rem;
+  }
+  
+  .navbar .navbar-brand, .create:hover {
+  
+      color: rgb(129, 129, 6);
+      font-size: 21rem;
+  
+  } 
+  
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+.form-container{
+  width: 40px;
+  margin: 20px auto;
+  color: blueviolet
+  ;
+
+}

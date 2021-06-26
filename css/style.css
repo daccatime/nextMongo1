@@ -1,0 +1,62 @@
+
+
+h1 {
+    text-align: center;
+}
+
+.wrapper{
+    max-width: 1200px;
+    padding:0 16px;
+    margin: 2px; 
+}
+
+.Navbar {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: rgb(2, 45, 66);
+    display: flex;
+    justify-content: space-between;
+    font-size: 2.5rem;
+
+}
+
+
+
+.navbar-brand:hover  {
+   
+    color: rgb(220, 217, 223);
+    font-size: 2.5rem;
+
+} 
+.edit:hover  {
+   
+    color: rgb(220, 217, 223);
+    font-size: 2.5rem;
+
+} 
+
+
+.create:hover  {
+   
+    color: rgb(220, 217, 223);
+    font-size: 2.5rem;
+
+} 
+
+.form-container{
+    width: 400px;
+    margin: 20px auto;
+    color: black;
+}
+
+.note-container{
+    text-align: center;
+    margin-top: 20px;
+}
+.grid {
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+
+
+}
